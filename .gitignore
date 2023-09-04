@@ -162,6 +162,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-25k_together_chat_v2.jsonl
-
 *.ipynb
+*.jsonl
