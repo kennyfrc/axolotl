@@ -19,7 +19,7 @@ output_dir: ./lora-out
 sequence_len: 8192
 sample_packing: true
 max_packed_sequence: 8192
-pad_to_sequence_len: false
+pad_to_sequence_len: true
 group_by_length: true
 
 adapter: lora
